@@ -1,0 +1,14 @@
+.header {
+    height: 100vh;
+    background-color: #dbdbdb;
+    color: #151515;
+    font-family: 'Caveat', cursive; 
+
+    .title {
+        text-align: center;
+        padding-top: 18rem;
+        font-size: 3rem;
+        opacity: 0;
+        clip-path: polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%);
+    }
+}

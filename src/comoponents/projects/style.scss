@@ -1,0 +1,19 @@
+:root {
+    --light: #fff;
+    --dark: #000;
+  }
+  .wrap{
+    background:var(--dark);
+  }
+  h1 {
+    text-align: center;
+  }
+  .section{
+    height:100vh;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .color-dark{
+    color:#fff;
+  }
